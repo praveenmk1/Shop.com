@@ -23,6 +23,7 @@ This is an E-Commerce Application where people can buy cloths, Gadgets, Applianc
 - SWAGGER API DOCUMENTATION
 - JWT
 - INTELLIJ
+- POSTMAN
 
 * * * * * FEATURES * * * * *
 
