@@ -55,3 +55,19 @@ This is an E-Commerce Application where people can buy cloths, Gadgets, Applianc
 | Product Service.           | Manages product catalog             | 9002 |
 | Order Service              | Handles orders and carts            | 9003 |
 | Payment Service            | Simulates payment processing        | 9004 |
+
+
+### API GATEWAY ### 
+
++-----------+       +-----------+       +-----------------+       +-------------+
+|  Client   | <---> | Controller| <---> |   Service Layer | <---> | Repository  | <---> Database
++-----------+       +-----------+       +-----------------+       +-------------+
+
+
+          +-----------------------+
+          |    API Gateway        |
+          +----------+------------+
+                     |
+        
+
+
